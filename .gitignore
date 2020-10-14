@@ -1,0 +1,4 @@
+.gomodcachedir/
+coverage.html
+coverage.out
+load_funds_handler
